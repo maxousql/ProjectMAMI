@@ -4,6 +4,21 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [WOW Template](https://github.com/toidicode/template/tree/master/34-wow).
 
+## [2.0.0] - 2022-09-25
+
+### Added
+
+- Simplified and Traditional Chinois translations from [@Ilias](https://github.com/ilias2711).
+
+### Changed
+
+- Change of the theme of the site, we opted for a light pink theme made by [@Manelle](https://github.com/manelleha).
+- Update changelog.md
+- Change img by [@Allan](https://github.com/OukhtySama).
+  
+### Removed
+- None
+
 ## [1.1.0] - 2022-09-25
 
 ### Added
@@ -35,3 +50,4 @@ The format is based on [WOW Template](https://github.com/toidicode/template/tree
 - None
 
 [1.0.0]: https://github.com/maxousql/ProjectMAMI/releases/tag/v1.0.0
+[1.0.0]: https://github.com/maxousql/ProjectMAMI/releases/tag/v2.0.0
