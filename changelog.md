@@ -4,6 +4,19 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [WOW Template](https://github.com/toidicode/template/tree/master/34-wow).
 
+## [1.1.0] - 2022-09-25
+
+### Added
+
+- New page for contact by [@Maxime](https://github.com/maxousql).
+- Add navigation to contact by [@Maxime](https://github.com/maxousql).
+
+### Changed
+
+- None
+### Removed
+- None
+
 ## [1.0.0] - 2022-09-24
 
 ### Added
