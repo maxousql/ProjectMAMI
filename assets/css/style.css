@@ -131,7 +131,7 @@ html, body{
   .wow-button{
       padding: 16px 60px;
       border: solid 1px #f09bc4;
-      color: #a62362;
+      color: #fa64ad;
       text-align: center;
       text-decoration: none;
       display: inline-block;
@@ -158,7 +158,7 @@ html, body{
       padding-bottom: 60px;
   }
   .index-part-2,.index-part-4{
-      background-color: #dabdcb;
+      background-color: #f87bb7;
   }
   hr{
       background-color: #c7c7c7; height: 1px; border: 0;
